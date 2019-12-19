@@ -1,0 +1,91 @@
+{
+    "name": "Invoicera",
+    "description": "Online invoicing & billing software - online invoices, subscription billing &  online payments. Best online invoicing software for SaaS companies, businesses & enterprises.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/822-invoicera.jpg",
+    "tags": [
+        "api provider",
+        "has api",
+        "have api",
+        "invoices",
+        "no api definition"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/invoicera\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Invoicera",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/822-invoicera.jpg",
+            "humanURL": "http:\/\/www.invoicera.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/invoicera-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/www.invoicera.com\/app\/api\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/invoicera"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/invoicera"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/product\/invoicera"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.invoicera.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "marketing@invoicera.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@invoicera.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@invoicera.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Invoicera"
+        },
+        {
+            "type": "Plugins",
+            "url": "https:\/\/www.invoicera.com\/add-ons.html"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.invoicera.com\/pricing.html"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.invoicera.com\/pricing.html"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Invoicera"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.invoicera.com"
+        }
+    ]
+}
